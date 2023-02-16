@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My repository as a full-stack Software Engineering Student at ALX!
+
+- 🔭 I’m currently working on shell variables and expansions.
+- 🌱 I’m currently learning what variables are, how to assign to variables and call variables in shell.
+- 🤔 I’m looking for help with understanding more on the C Programming language
+- 💬 Ask me about anything tech related, If I dont't have the answer, we will collaborate for a solution.
